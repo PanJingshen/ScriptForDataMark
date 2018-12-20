@@ -1,0 +1,1 @@
+{"description_content_type": "UNKNOWN", "extensions": {"python.details": {"contacts": [{"email": "kylebgorman@gmail.com", "name": "Kyle Gorman et al.", "role": "author"}], "document_names": {"description": "DESCRIPTION.rst"}}}, "generator": "bdist_wheel (0.29.0)", "metadata_version": "2.0", "name": "TextGrid", "summary": "Praat TextGrid manipulation.", "version": "1.4"}
